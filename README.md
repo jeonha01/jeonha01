@@ -11,14 +11,13 @@
 <b>React</b>와 <b>React Native</b>를 주로 다루고, 새로운 기술에 항상 도전합니다.<br><br>
 
 
-소프트웨어학과 4학년 재학중으로,<br>
 웹&앱 개발에 관심이 많습니다.<br>
 깃허브를 통해 성장 과정을 공유합니다.<br >
 
 ---
 
 ### <b>Tech Stacks 🛠</b>
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts,redux,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts,redux,github,linux,mysql)](https://skillicons.dev)
 
 ---
 
